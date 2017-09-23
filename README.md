@@ -1,6 +1,8 @@
 # photomaton
 
-
+#
+# https://projets-du-dimanche.jimdo.com/projets/photomaton/
+#
 # Code Arduino
 # Fichier .ino a placer dans un repertoire "photomaton"
 # Une fois le .ino ouvert, ajouter a l'environnement Arduino les librairies via le gestionnaire :
